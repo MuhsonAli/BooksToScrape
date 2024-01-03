@@ -18,7 +18,7 @@ cd BooksToScrape
 
 This project requires Python 3. If you do not have Python 3 installed on your system, you can download it from the official Python website
 ```bash
-(https://www.python.org/downloads/).
+https://www.python.org/downloads/
 ```
 Follow the instructions on the website to install Python 3 on your operating system.
 
