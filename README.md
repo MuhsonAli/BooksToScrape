@@ -14,6 +14,14 @@ To run this script, you need Python installed on your system. Clone this reposit
 git clone https://github.com/MuhsonAli/BooksToScrape.git
 cd BooksToScrape
 ```
+## Python Installation
+
+This project requires Python 3. If you do not have Python 3 installed on your system, you can download it from the official Python website
+```bash
+(https://www.python.org/downloads/).
+```
+Follow the instructions on the website to install Python 3 on your operating system.
+
 
 ## Usage
 To run the script, navigate to the project directory and execute:
