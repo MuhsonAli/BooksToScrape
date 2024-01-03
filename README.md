@@ -18,7 +18,7 @@ cd BooksToScrape
 ## Usage
 To run the script, navigate to the project directory and execute:
 ```bash
-python mod5.py
+python3 mod5.py
 ```
 
 ## Output
