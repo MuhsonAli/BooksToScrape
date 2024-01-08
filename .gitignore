@@ -1,4 +1,7 @@
 venv/
+*.csv
+*.jpg
+*.zip
 .DS_Store
 .idea/
 projects/.DS_Store
